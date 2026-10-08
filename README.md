@@ -1,22 +1,21 @@
 # Beecrowd - Python
 
-Repositório criado para armazenar minhas **soluções de problemas e exercícios realizados na plataforma beecrowd**, utilizando a linguagem **Python**.
+Repositório criado para armazenar minhas soluções de problemas e exercícios realizados na plataforma beecrowd, utilizando a linguagem Python.
 
 Os exercícios estão organizados por conteúdos, abordando desde conceitos básicos de programação até estruturas de repetição e arrays.
 
 ## Conteúdo
 
-### Básicos 1
+### Básicos I
 
 Conteúdos relacionados aos primeiros conceitos de programação, como:
 
 * Variáveis e tipos de dados
 * Entrada e saída de dados
-* Operadores
 * Operações matemáticas
 * Expressões
 
-### Básicos 2
+### Básicos II
 
 Conteúdos relacionados ao aprofundamento dos conceitos básicos, incluindo:
 
@@ -71,11 +70,7 @@ Conteúdos relacionados ao armazenamento e manipulação de conjuntos de dados, 
 
 ## Objetivo
 
-Este repositório tem como objetivo **registrar minha evolução nos estudos de programação e Python**, reunindo as soluções dos problemas e exercícios realizados na plataforma beecrowd.
-
-## Plataforma
-
-Plataforma de exercícios e problemas de programação - **beecrowd**
+Este repositório tem como objetivo registrar minha evolução nos estudos de programação e Python, reunindo as soluções dos problemas e exercícios realizados na plataforma beecrowd.
 
 ---
 
